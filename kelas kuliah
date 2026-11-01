@@ -1,0 +1,17 @@
+KELAS KULIAH
+INSERT INTO kelas_kuliah (id_kelas, nama_kelas, kode_mk, kode_induk_dosen, semester_akademik, ruang) VALUES
+(1,'Basis Data A','MK101','0801018001','2025/2026 Ganjil','R101'),
+(2,'Pemrograman Web A','MK102','0801028002','2025/2026 Ganjil','R102'),
+(3,'Algoritma dan Pemrograman A','MK103','0801038003','2025/2026 Ganjil','R103'),
+(4,'Jaringan Komputer A','MK104','0801048004','2025/2026 Ganjil','R104'),
+(5,'Struktur Data A','MK105','0801058005','2025/2026 Ganjil','R105'),
+(6,'Analisis Sistem A','MK201','0802018006','2025/2026 Ganjil','R201'),
+(7,'Sistem Basis Data A','MK202','0802028007','2025/2026 Ganjil','R202'),
+(8,'Pemrograman Dasar A','MK203','0802038008','2025/2026 Ganjil','R203'),
+(9,'Manajemen Proyek TI A','MK204','0802048009','2025/2026 Ganjil','R204'),
+(10,'Rekayasa Perangkat Lunak A','MK205','0802058010','2025/2026 Ganjil','R205'),
+(11,'Pengantar Manajemen A','MK301','0803018011','2025/2026 Ganjil','R301'),
+(12,'Akuntansi Dasar A','MK302','0803028012','2025/2026 Ganjil','R302'),
+(13,'Manajemen Pemasaran A','MK303','0803038013','2025/2026 Ganjil','R303'),
+(14,'Manajemen Keuangan A','MK304','0803048014','2025/2026 Ganjil','R304'),
+(15,'Perilaku Organisasi A','MK305','0803058015','2025/2026 Ganjil','R305');
