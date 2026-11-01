@@ -1,0 +1,12 @@
+ DELETE
+INSERT INTO mahasiswa (nim, nama_mahasiswa, alamat, no_telepon, tanggal_lahir, angkatan, status, kode_prodi)
+VALUES ('2024999','Mahasiswa Percobaan','Alamat Uji','080000000000','2005-01-01',2024,'Aktif','TI');
+
+SELECT * FROM mahasiswa WHERE nim = '2024999';
+
+DELETE FROM mahasiswa
+WHERE nim = '2024999';
+
+SELECT * FROM mahasiswa WHERE nim = '2024999';
+
+SELECT COUNT(*) AS total_mahasiswa FROM mahasiswa;
