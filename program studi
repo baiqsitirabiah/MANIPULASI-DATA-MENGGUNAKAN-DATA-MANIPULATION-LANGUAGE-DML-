@@ -1,0 +1,5 @@
+INSERT INTO program_studi (kode_prodi, nama_prodi, fakultas) 
+VALUES
+('TI', 'Teknologi Informasi', 'Fakultas Sains dan Teknologi'),
+('FK', 'Kedokteran', 'Fakultas Kesehatan'),
+('FT', 'Matematika', 'Fakultas Sains dan Teknologi');
