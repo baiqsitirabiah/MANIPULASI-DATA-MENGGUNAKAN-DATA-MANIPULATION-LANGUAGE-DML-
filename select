@@ -1,0 +1,7 @@
+SELECT * FROM program_studi;
+SELECT * FROM dosen;
+SELECT * FROM mahasiswa;
+SELECT * FROM mata_kuliah;
+SELECT * FROM kelas_kuliah;
+SELECT * FROM krs;
+SELECT * FROM nilai;
