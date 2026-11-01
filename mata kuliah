@@ -1,0 +1,20 @@
+- 1.4 MATA KULIAH
+INSERT INTO mata_kuliah (kode_mk, nama_mk, sks, semester, kode_prodi) VALUES
+('MK101','Basis Data',3,3,'TI'),
+('MK102','Pemrograman Web',3,3,'TI'),
+('MK103','Algoritma dan Pemrograman',3,1,'TI'),
+('MK104','Jaringan Komputer',3,4,'TI'),
+('MK105','Struktur Data',3,2,'TI'),
+('MK106','Kecerdasan Buatan',3,5,'TI'),
+('MK201','Analisis Sistem',3,3,'FK'),
+('MK202','Sistem Basis Data',3,3,'FK'),
+('MK203','Pemrograman Dasar',3,1,'FK'),
+('MK204','Manajemen Proyek TI',3,5,'FK'),
+('MK205','Rekayasa Perangkat Lunak',3,4,'FK'),
+('MK206','Sistem Informasi Manajemen',3,2,'FK'),
+('MK301','Pengantar Manajemen',3,1,'FT'),
+('MK302','Akuntansi Dasar',3,1,'FT'),
+('MK303','Manajemen Pemasaran',3,3,'FT'),
+('MK304','Manajemen Keuangan',3,3,'FT'),
+('MK305','Perilaku Organisasi',3,2,'FT'),
+('MK306','Manajemen SDM',3,4,'FT');
