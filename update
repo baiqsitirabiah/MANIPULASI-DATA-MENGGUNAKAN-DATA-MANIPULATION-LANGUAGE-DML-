@@ -1,0 +1,8 @@
+UPDATE
+SELECT nim, nama_mahasiswa, alamat FROM mahasiswa WHERE nim = '2024101';
+
+UPDATE mahasiswa
+SET alamat = 'Jl. Bung Karno No. 25, Mataram'
+WHERE nim = '2024101';
+
+SELECT nim, nama_mahasiswa, alamat FROM mahasiswa WHERE nim = '2024101';
